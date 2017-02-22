@@ -28,12 +28,12 @@ for(var i=1;i<21;i++){
 }
 document.getElementById("sixq").innerHTML= empty;
 
-function fourfunction(){
-    var fourx = Number(document.getElementById("total").value);
-    var foury = Number(document.getElementById("percent").value);
-    var totalmarks = fourx / foury*100;
-    document.getElementById("four").innerHTML = totalmarks;
-}
+//function fourfunction(){
+//    var fourx = Number(document.getElementById("total").value);
+//    var foury = Number(document.getElementById("percent").value);
+//    var totalmarks = fourx / foury*100;
+//    document.getElementById("four").innerHTML = totalmarks;
+//}
 
 var three = [{name: 'Asher', age: 22}, {name: 'Zubair', age: 20}, {name: 'Kashif', age: 23}, {name: 'Wasif', age: 17}, {name: 'Hanzala', age: 28}]
 
